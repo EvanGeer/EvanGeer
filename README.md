@@ -15,6 +15,7 @@ I have led software teams since early 2017, and I love igniting a passion for cl
 ## Currenly Learning:
 - Full Stack with MERN via MITx
 - TypeScript
+- Rust
 
 
 <!---
