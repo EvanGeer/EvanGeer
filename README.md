@@ -4,6 +4,11 @@ I like to tinker with code, be it learning a new language, teaching my kiddo how
 
 I have led software teams since early 2017, and I love igniting a passion for clean code in others. Most recently I led the engineering team for a start-up, laying the groundwork for the eventual successful exit via acquisition by a fortune 500 company, and worked to seamlessly integrate that team into the new organization. 
 
+## Leadership Skills:
+- Scaling Engineering Teams from startup to Enterprise
+- Product Management
+- Agile Team Leadership
+
 ## Tech Skills:
 - C# (advanced)
 - JavaScript (intermediate)
