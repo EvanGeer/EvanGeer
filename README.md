@@ -10,18 +10,17 @@ I have led software teams since early 2017, and I love igniting a passion for cl
 - Agile Team Leadership
 
 ## Tech Skills:
-- C# (advanced)
-- JavaScript (intermediate)
-- Java (intermediate)
-- Visual Basic (intermediate)
-- MS SQL Server/T-SQL (intermediate)
-- Python (novice)
-
-## Currenly Learning:
-- Full Stack with MERN via MITx
+- C#
+- JavaScript
 - TypeScript
-- Rust
-
+- React.js
+- Java
+- Visual Basic
+- MS SQL Server
+- MySQL
+- Google Firbase
+- MongoDB
+- Python
 
 <!---
 EvanGeer/EvanGeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
